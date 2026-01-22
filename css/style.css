@@ -6261,7 +6261,7 @@ select:focus {
 }
 
 .contact-information-box .contact-us li a {
-    font-size: 26px;
+    font-size: 20px;
     line-height: 32px;
     font-weight: 500;
     transition: all 200ms linear;

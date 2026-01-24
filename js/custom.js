@@ -539,8 +539,8 @@ function testimonialCarousel () {
                 '<span class="flaticon-arrow"></span>'
             ],
             autoplayHoverPause: false,
-            autoplay: 6000,
-            smartSpeed: 1000,
+            autoplay: 8000,
+            smartSpeed: 8000,
             responsive:{
                 0:{
                     items:1
@@ -580,8 +580,8 @@ function historyCarousel () {
                 '<span class="flaticon-arrow"></span>'
             ],
             autoplayHoverPause: false,
-            autoplay: 6000,
-            smartSpeed: 1000,
+            autoplay: 10000,
+            smartSpeed: 8000,
             responsive:{
                 0:{
                     items:1
@@ -679,9 +679,9 @@ if ($('.banner-carousel').length) {
         dots: false,
         nav: true,
         singleItem:true,
-        smartSpeed: 500,
+        smartSpeed: 5000,
         autoplay: true,
-        autoplayTimeout:6000,
+        autoplayTimeout:10000,
         navText: [ '<span class="fas flaticon-arrow left"></span>', '<span class="fas flaticon-arrow right"></span>' ],
         responsive:{
             0:{

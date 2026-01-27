@@ -296,7 +296,7 @@ li {
 }
 
 .sec-title .big-title h1 {
-    color: #ffffff;
+    color: #ba872c;
     font-size: 40px;
     line-height: 70px;
     font-weight: 800;
@@ -2726,7 +2726,7 @@ select:focus {
     top: 0;
     width: 200%;
     height: 540px;
-    background-color: #022447;
+    background-color: #f9f6f0;
     background-position: center;
     background-repeat: no-repeat;
     background-repeat: repeat-x;
